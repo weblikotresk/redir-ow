@@ -1,0 +1,1 @@
+window.location = 'https://open-window.herokuapp.com';

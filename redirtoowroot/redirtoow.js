@@ -1,1 +1,1 @@
-window.location = 'https://open-window.herokuapp.com';
+window.location.replace('https://open-window.herokuapp.com');
